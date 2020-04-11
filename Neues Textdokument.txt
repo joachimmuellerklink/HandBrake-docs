@@ -1,0 +1,11 @@
+I was so happy to notice that handbrake provides it's users with a batch mode. But now I see that this mode doesn't do what I expected. 
+Of course one can build a list of different files and they will be processed one after the other.
+But that's not what I need. I need to fill several directories into the batch list that contain files that belong together. For example video01.ts + vidoe02.ts+video03.ts and so on. 
+You might say that I have to add those files by using the chapter menue. OK, this works. But it is very inconvenient.
+The main problem that occurs processing this way is that these files will be converted one by one and that I miss a merge of these files. 
+So afterwards I have to process them again using another tool that joins this bundle. It makes for me no sense, because in each directory there are all the files that build ONE movie.
+This is the typical scenario for all those who are saving a live-stream that is send by a televison station via satellite or cable.
+My suggestion for the developpers: Build another batch mode that serves the need I have prescribed.
+And to add one more desire: The time is too long for scanning one file. Make this more efficient. For example Any Video Converter is better!
+Thanks for your work and good luck!
+Joachim Müller-Klink
